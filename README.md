@@ -3,6 +3,7 @@ This is an archive of the course material, including syllabus, course notes, and
 ## Course Outline
 ### Week 1 Readings 
 - Reading: Syllabus
+
 **Description**
 Students will examine the economic, social, and intellectual history of the design and use of technology. This course will focus particularly on the power of digital pedagogy as intersectional feminist praxis, which aims to centralize race, gender, class, and queer perspectives in academic debates. Readings in the course will focus on the history and development of the uses of technology in the classroom and academia alongside current attempts to critique how technology can reproduce structures of power and systems of oppression. We will also explore the unique ways digital humanities has transformed the classroom, and collaborate in defining clear goals for using and teaching new technologies, from engaging students in digital project analyses to teaching code and markup languages. Assignments for this course will include the development of shared resources for teaching and learning with technology, evaluations of projects with pedagogical components, as well as forays into project-based learning within fields such as digital editing, preservation and curation, and gaming.
 
@@ -12,9 +13,11 @@ Students will examine the economic, social, and intellectual history of the desi
 In this course we will learn and model a praxis of care, which of course applies across the board to both instructors and learners. If you require accommodations or if at any point life gets in the way of your completing this course, please reach out as soon as possible and we will figure out some alternatives together.
 
 **Instruction Mode**
+
 **This is a hybrid course**. We will have scheduled 2-hour in-person and occasional Zoom meetings (see schedule) to discuss our impressions of texts and go over digital projects together. **Attendance in these face to face meetings is required**, but do contact me if unforeseen circumstances make it difficult for you to attend or regularly participate. A set of shared course notes will be available for us to document group discussions, links, and ideas. Additional discussion and short writing will take place over our course blog.
 
 **Learning Outcomes**
+
 Participants in this course will:
 
 1. Learn and apply best practices for teaching (with) digital technologies
@@ -24,12 +27,15 @@ Participants in this course will:
 5. Identify and implement liberatory strategies for anti-racist, intersectional digital pedagogy
 
 **Assignments**
+
 This is a course on pedagogy, so we will take every opportunity to reflect on pedagogical choices, including our syllabus and our use of various digital platforms within the course. I consider the course schedule below a work in progress: our goals might change depending on what your goals are. The **core assignment in this course is the development of your pedagogical materials for a future class**. This can mean developing a course unit around a particular skill (say, scholarly editing); a single, scaffolded assignment employing a particular tool or methodology; or a list of supporting materials on a given topic. Ancillary activities to this project include a 1-page written proposal and 1-page rationale outlining the theories and methodologies motivating the assignment. We will discuss this assignment further around week 10.
 
 Small, recurring assignments consist of:
 
 *Formal blogs*: weekly formal analysis of assigned readings reflecting on their value to your pedagogical praxis. Blogs are formally due on midnight the day before class, with a grace period of 12 hours so I have time to read and comment on your work. Complete any 7/10. 
-*Discussion Leader/Participation*: students are required to join class in person or online weekly and share ideas as we grapple with readings, potential assignment ideas, and methodologies. Most weeks, one student will sign up to prepare discussion questions to help us engage with our course readings and provide us with examples of assignments (you can use Humanities Commons or Digital Pedagogy in the Humanities).
+
+*Discussion Leader/Participation*: students are required to join class in person or online weekly and share ideas as we grapple with readings, potential assignment ideas, and methodologies. Most weeks, one student will sign up to prepare discussion questions to help us engage with our course readings and provide us with examples of assignments (you can use [Humanities Commons] (https://hcommons.org/) or [Digital Pedagogy in the Humanities] (https://digitalpedagogy.mla.hcommons.org/)).
+
 *Alternative assignment*: we have two blank weeks in the semester. If you’d like to volunteer to set up the course readings and projects for a week (after consulting with the class on topics), you can do this in lieu of discussion leader. In addition to setting up the work due (including a blog prompt), you will submit a short, 1-page rationale for your choices. This work is due at least 1 week before class meets to discuss the assigned work. 
 *Workshop*: once during the term each student will be responsible for becoming familiar with a tool useful to digital pedagogy and introducing it to the class. Your demo should offer a brief lesson on how to use the tool (aimed at an audience of your choice) and a list of suggestions for how to incorporate it in teaching contexts.
 
