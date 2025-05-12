@@ -5,7 +5,7 @@ This is an archive of the course material, including syllabus, course notes, and
 - Introduction: No Readings
 #### Course Notes 
 - Google Docs alternative:
-  Proton Docs
-  CryptPad
+  - Proton Docs
+  - CryptPad
 
 
