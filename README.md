@@ -68,4 +68,6 @@ Thanks to Quinn Dombrowski for inspiring the honor code section. Thanks to [Nik 
   - https://etherpad.org/ 
   - https://framapad.org/abc/en/
 ### Week 2 Readings
-- 
+#### Student Responses
+##### Course Plan
+###### Course Notes
