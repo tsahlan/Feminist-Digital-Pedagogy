@@ -1,4 +1,5 @@
 # Session Plan 
+- Introductions
 - Dicussion of public facing writing/private blog posting/security 
 # Notes 
 - Google Docs alternative:
