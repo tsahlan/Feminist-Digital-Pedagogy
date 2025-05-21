@@ -34,7 +34,7 @@ This is a course on pedagogy, so we will take every opportunity to reflect on pe
 **Alternative assignment**: we have two blank weeks in the semester. If you’d like to volunteer to set up the course readings and projects for a week (after consulting with the class on topics), you can do this in lieu of discussion leader. In addition to setting up the work due (including a blog prompt), you will submit a short, 1-page rationale for your choices. This work is due at least 1 week before class meets to discuss the assigned work. 
 *Workshop*: once during the term each student will be responsible for becoming familiar with a tool useful to digital pedagogy and introducing it to the class. Your demo should offer a brief lesson on how to use the tool (aimed at an audience of your choice) and a list of suggestions for how to incorporate it in teaching contexts.
 
-In order to prepare ourselves for a productive discussion, I encourage you to use our Course Notes as a central, communal space to ask questions, highlight sections for discussion, and add links or connections to other readings. I will also try to invite some guest speakers for special lectures.
+In order to prepare ourselves for a productive discussion, I encourage you to use our **Course Notes** as a central, communal space to ask questions, highlight sections for discussion, and add links or connections to other readings. I will also try to invite some guest speakers for special lectures.
 
 ## Required Technology
 Computer and internet access are required. Additional platforms include:
