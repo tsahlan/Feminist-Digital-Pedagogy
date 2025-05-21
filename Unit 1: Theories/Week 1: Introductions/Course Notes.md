@@ -1,10 +1,12 @@
 # Session Plan 
-- Introductions
-- Dicussion of public facing writing/private blog posting/security 
+- Introductions Goals
+- Course Overview
+- Preferences on private/public writing
+- Doing radical work in horrible times
 # Notes 
 - Google Docs alternative:
-  - Proton Docs
-  - CryptPad
+  - [Proton Docs](https://proton.me/drive/docs)
+  - [CryptPad](https://cryptpad.fr/)
 - Open source  collaborative editing tools
-  - https://etherpad.org/ 
-  - https://framapad.org/abc/en/
+  - [Etherpad](https://etherpad.org/) 
+  - [Framapad](https://framapad.org/abc/en/)
