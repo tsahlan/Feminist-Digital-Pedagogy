@@ -3,7 +3,7 @@
 - Course Overview
 - Preferences on private/public writing
 - Doing radical work in horrible times
-# Notes 
+# Session Notes 
 - Google Docs alternative:
   - [Proton Docs](https://proton.me/drive/docs)
   - [CryptPad](https://cryptpad.fr/)
