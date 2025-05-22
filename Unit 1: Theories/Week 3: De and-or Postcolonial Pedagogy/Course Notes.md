@@ -55,4 +55,18 @@ Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edi
 - Key takeaways:
     - Accessibility, alt-text, summaries of artifacts 
     - Projects need appropriate and visible citation/credits
+ 
+  ## Pedagogical Best Practices
+
+- What would be a good checklist for selecting projects for inclusion in a DH or digital-infused syllabus?
+    - Make sure the links actually work!!!
+      - And check archive.org if they don’t
+    - Having choices between different resources to look at when some don’t work on your computer / are hard for you specifically to interact with / are accessible
+    - Is the project accessible?
+    - Is the page scalable/responsible to multiple devices? 
+- What would be a good checklist for selecting tools/resources?
+    - Having a set of related materials in different formats / media types for further research
+- Design a list questions for students to consider when taking on archiving projects
+    - Have I thought about my audience, UI/UX?
+
 
