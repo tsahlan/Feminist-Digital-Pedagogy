@@ -6,4 +6,6 @@
 
 - Stringfield, [“Exploring Constellations of Care and Professionalization in Black Feminist Digital Humanities: A Black Woman Graduate Student’s Reflection”](https://www.bibliopen.org/biblioviewer/index.html?epub=feminist-digital-humanities%2F4b06ef527313b6fe4f48b9090a9c11e7&goto=epubcfi(/6/36!/4/2/2/2%5Bpage143%5D)) in *Feminist Digital Humanities*
 
-- 
+- Lukes and Kim, [“Becoming Digital, Becoming Queer”](https://muse.jhu.edu/pub/1/article/704346/pdf)
+
+    - Editorial Note: This reading is under copyright. Students had access to this text through the Professor and through their institution's library.
