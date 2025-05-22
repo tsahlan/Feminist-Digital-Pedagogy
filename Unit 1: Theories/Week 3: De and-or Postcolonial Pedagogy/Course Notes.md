@@ -37,16 +37,7 @@
 
 - Instructor, riffing on MM's post:  Let’s make a case for working in failure in DH classes. What does that look like in practice? i.e. assignments, readings, grading.
 
-## What's next?
-
-- Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
-- **Suggested Resources** on invisible human labor in digitization
-    - **Article Suggestion:** ["The Hidden Hands Scanning The World's Knowledge For Google"](https://www.buzzfeednews.com/article/reyhan/the-hidden-hands-scanning-the-worlds-knowledge-fo)
-    - **Chapter Suggestion:** ["Digitizing labor in the Google Books Project
-Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429244599-10/digitizing-labor-google-books-project-andrea-zeffiro)
-    - **Project Suggestion:** [ScanOps](https://www.andrewnormanwilson.com/ScanOps.html)
-
- ## Project Discussion 
+### Project Discussion 
 
  - Which project did you explore? What did you like about it? 
     - Reconciliatio Project shares additional resources across multiple media
@@ -56,7 +47,7 @@ Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edi
     - Accessibility, alt-text, summaries of artifacts 
     - Projects need appropriate and visible citation/credits
  
-  ## Pedagogical Best Practices
+ ### Pedagogical Best Practices
 
 - What would be a good checklist for selecting projects for inclusion in a DH or digital-infused syllabus?
     - Make sure the links actually work!!!
@@ -69,4 +60,11 @@ Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edi
 - Design a list questions for students to consider when taking on archiving projects
     - Have I thought about my audience, UI/UX?
 
+### What's next?
 
+- Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
+- **Suggested Resources** on invisible human labor in digitization
+    - **Article Suggestion:** ["The Hidden Hands Scanning The World's Knowledge For Google"](https://www.buzzfeednews.com/article/reyhan/the-hidden-hands-scanning-the-worlds-knowledge-fo)
+    - **Chapter Suggestion:** ["Digitizing labor in the Google Books Project
+Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429244599-10/digitizing-labor-google-books-project-andrea-zeffiro)
+    - **Project Suggestion:** [ScanOps](https://www.andrewnormanwilson.com/ScanOps.html)
