@@ -10,6 +10,10 @@
 
 # Session Notes
 
+## Questions related to readings
+
+- Risam talks about using cultural specificity over universality as a way to practice decolonizing. **How might we honor cultural specificity and individual experience when we may be teaching in large classrooms without risking generalizations about individual cultures or burnout?**
+
 ## Discussion
 - TJ: How much can individuals really be expected to take on the emotional labor of supporting their colleagues and students? Does this require a restructuring of schools and research institutions in general to provide an environment and a community that ensures students can be not just intellectually but also emotionally supported?
 
@@ -33,7 +37,14 @@
 
 - Instructor, riffing on MM's post:  Let’s make a case for working in failure in DH classes. What does that look like in practice? i.e. assignments, readings, grading.
 
-- Risam talks about using cultural specificity over universality as a way to practice decolonizing. How might we honor cultural specificity and individual experience when we may be teaching in large classrooms without risking generalizations about individual cultures or burnout?
+## What's next?
+
+- Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
+- **Suggested Readings** on invisible human labor in digitization
+    - **Article Suggestions**
+
+   
+
 
 
 
