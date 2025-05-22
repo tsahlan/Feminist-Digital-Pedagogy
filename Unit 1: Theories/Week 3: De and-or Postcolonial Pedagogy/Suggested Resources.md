@@ -1,4 +1,3 @@
-
 **Book about doing DH using Indigenous frameworks and epistemologies**
 - [Indigenous Voices in Digital Spaces](https://upcolorado.com/utah-state-university-press/item/6611-indigenous-voices-in-digital-spaces )
 
