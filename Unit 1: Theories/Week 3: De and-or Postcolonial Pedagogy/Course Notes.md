@@ -40,11 +40,19 @@
 ## What's next?
 
 - Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
-- **Suggested Readings** on invisible human labor in digitization
-    - **Article Suggestions**
+- **Suggested Resources** on invisible human labor in digitization
+    - **Article Suggestion:** ["The Hidden Hands Scanning The World's Knowledge For Google"](https://www.buzzfeednews.com/article/reyhan/the-hidden-hands-scanning-the-worlds-knowledge-fo)
+    - **Chapter Suggestion:** ["Digitizing labor in the Google Books Project
+Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429244599-10/digitizing-labor-google-books-project-andrea-zeffiro)
+    - **Project Suggestion:** [ScanOps](https://www.andrewnormanwilson.com/ScanOps.html)
 
-   
+ ## Project Discussion 
 
-
-
+ - Which project did you explore? What did you like about it? 
+    - Reconciliatio Project shares additional resources across multiple media
+- Would you include this project in a DH course? Why/why not? 
+- What does it do that models best practices, in your opinion?
+- Key takeaways:
+    - Accessibility, alt-text, summaries of artifacts 
+    - Projects need appropriate and visible citation/credits
 
