@@ -4,7 +4,7 @@
 
 - Month in review: grounding theories, goals and guiding principles; beginning to build a best practices reference guide
 
-- Instructor contributions for the session on **mapping communitiessuggestion:** An [assignment](https://eng295.commons.gc.cuny.edu/project-3/) and example projects [Blast to The Past (Bronx Edition)](https://www.arcgis.com/apps/Cascade/index.html?appid=f8fd66bd0ce24601bfd43f90eada533e) and [Churches of East New York Brooklyn](https://www.youtube.com/watch?v=dJiTmA6NjAg); on **digital editing suggestion:** An [article that includes the assignment](https://academicworks.cuny.edu/yc_pubs/322/) and the [project](https://scalar.usc.edu/works/shakespeare-in-the-digital-age/index).
+- Instructor contributions for the session on **mapping communities suggestion:** An [assignment](https://eng295.commons.gc.cuny.edu/project-3/) and example projects [Blast to The Past (Bronx Edition)](https://www.arcgis.com/apps/Cascade/index.html?appid=f8fd66bd0ce24601bfd43f90eada533e) and [Churches of East New York Brooklyn](https://www.youtube.com/watch?v=dJiTmA6NjAg); on **digital editing suggestion:** An [article that includes the assignment](https://academicworks.cuny.edu/yc_pubs/322/) and the [project](https://scalar.usc.edu/works/shakespeare-in-the-digital-age/index).
 - Question: What are some of the contexts/background knowledge students may need to be introduced to when they evaluate and build projects with a feminist and/or queer focus? In other words, what would be the necessary balance between **theory** and technical **skill** in a course that takes such topics into consideration? 
  
 # Session Notes
