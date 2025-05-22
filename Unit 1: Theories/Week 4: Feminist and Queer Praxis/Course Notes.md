@@ -4,7 +4,7 @@
 
 - Month in review: grounding theories, goals and guiding principles; beginning to build a best practices reference guide
 
-- Instructor contributions for the session on **mapping communities:** An [assignment](https://eng295.commons.gc.cuny.edu/project-3/) and example projects [Blast to The Past (Bronx Edition)](https://www.arcgis.com/apps/Cascade/index.html?appid=f8fd66bd0ce24601bfd43f90eada533e) and [Churches of East New York Brooklyn](https://www.youtube.com/watch?v=dJiTmA6NjAg); on **digital editing:** An [article that includes the assignment](https://academicworks.cuny.edu/yc_pubs/322/) and the [project](https://scalar.usc.edu/works/shakespeare-in-the-digital-age/index).
+- Instructor contributions for the session on **mapping communitiessuggestion:** An [assignment](https://eng295.commons.gc.cuny.edu/project-3/) and example projects [Blast to The Past (Bronx Edition)](https://www.arcgis.com/apps/Cascade/index.html?appid=f8fd66bd0ce24601bfd43f90eada533e) and [Churches of East New York Brooklyn](https://www.youtube.com/watch?v=dJiTmA6NjAg); on **digital editing suggestion:** An [article that includes the assignment](https://academicworks.cuny.edu/yc_pubs/322/) and the [project](https://scalar.usc.edu/works/shakespeare-in-the-digital-age/index).
 - Question: What are some of the contexts/background knowledge students may need to be introduced to when they evaluate and build projects with a feminist and/or queer focus? In other words, what would be the necessary balance between **theory** and technical **skill** in a course that takes such topics into consideration? 
  
 # Session Notes
@@ -23,43 +23,40 @@ What does teaching/assignments/workshops that “challenge power” (D’Ignazio
     - [Excel esports](https://fmworldcup.com/microsoft-excel-world-championship/)
     - [Wilderness.land](https://wilderness.land/)
 
-  Measures of intelligence often based on someone else’s testing -- intellect can be built and made personal and individualized
-    - Building intellect can be an invitation to reimagine the future
-    - Creating new concepts means we don’t have to be concerned with fitting in or belonging but can be centered around community from the start
-    - When we don’t have a term for something, sometimes it can facilitate conversation -- naming something shows what we’re centering in a conversation
-    - Social media connection kind of erases the need for a shared vocabulary (or vocabulary can be prismatic, visual, dispersed)
-
-- JB: I’ve been thinking about visibility. I like that DH isn’t as visible right now. I like that DH isn’t clearly defined. Decolonial theory and praxis within DH can be hidden in a way by the vagueness of DH. 
-    - So many ways to understand and define DH
-    - Given current politics, DH  allows us to hide/work covertly -- whereas known term can be searchable
-    - MM: negotiation of visibility and invisibility: archiving and documenting must be done with care so as to not put communities at risk -- crucial to reflect on privilege and power (who can speak, who can be seen, who should be documented
-    - **Article Suggestion** Moya Bailey writes about this ( visibilty and invisibilty) in ["#transform(ing)DH Writing and Research: An Autoethnography of Digital Humanities and Feminist Ethics"](http://digitalhumanities.org:8081/dhq/vol/9/2/000209/000209.html)
-    - **Article Suggestion** from Black Feminisms.com on power ["The Matrix of Domination and the Four Domains of Power"](https://blackfeminisms.com/matrix/)
-    - **Project Suggestion** CK: A project on canners in NYC. An example of archiving and documentation. [We Can NYC](https://canners.nyc/)
-    - MM: One idea--keeping records but not necessarily publishing them when at risk
-    - **Project Suggestion** Also working on projects that expose damage but not the people being targeted: [Torn Apart](https://xpmethod.columbia.edu/torn-apart/volume/2/index)
-    - Looking at archives of previous moments in history where similar activism takes place
-
-- Instructor, riffing on MM's post:  Let’s make a case for working in failure in DH classes. What does that look like in practice? i.e. assignments, readings, grading.
-
-### What's next?
-
-- Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
-- **Suggested Resources** on invisible human labor in digitization
-    - **Article Suggestion:** ["The Hidden Hands Scanning The World's Knowledge For Google"](https://www.buzzfeednews.com/article/reyhan/the-hidden-hands-scanning-the-worlds-knowledge-fo)
-    - **Chapter Suggestion:** ["Digitizing labor in the Google Books Project
-Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429244599-10/digitizing-labor-google-books-project-andrea-zeffiro)
-    - **Project Suggestion:** [ScanOps](https://www.andrewnormanwilson.com/ScanOps.html)
-
 ### Project Discussion 
+What kinds of assignments/labs would need to be scaffolded to achieve a (potentially personal, community-driven) final project like [Locating Queer Memories](https://storymaps.arcgis.com/stories/512dbf55af5647fba8ef7ea629d353cd)? 
 
- - Which project did you explore? What did you like about it? 
-    - Reconciliatio Project shares additional resources across multiple media
-- Would you include this project in a DH course? Why/why not? 
-- What does it do that models best practices, in your opinion?
-- Key takeaways:
-    - Accessibility, alt-text, summaries of artifacts 
-    - Projects need appropriate and visible citation/credits
+1. First, a reflective assignment on thinking about maps:
+  - How are all maps curated? How is truth conveyed and concealed? How can maps reinforce or challenge existing power structures?
+  - Maps as mediums → cartographical, scientific, sites of memory, sites of imagining, memes, etc… what can maps communicate that other mediums can not?
+  - **Share examples of cool, funny, niche maps**
+  - Ask students to choose a favorite map of theirs to share with others
+   -exploring maps in/as digital
+    - Sharing examples of different projects and the tools they use / built
+   
+2. Second, a brainstorm session for mapping narratives:
+  - What kind of story do you want to tell with your project?
+  - Themes, locations, experiences you wish to express, things you wish for people (or yourself) to get from your project
+  - At the end, encourage students to think about how the outcomes and experiences they wish to reflect from their narrative will shape the instrumental nature of their project.
+    - How do you want people to engage with the project? Contribute? Or learn about?
+
+3. Proposal assignment
+
+4. Tinkering sessions
+  - MM: mixing in tinkering with proposal stage; looking at examples and remixing
+
+  - I think this would need to involve building skills from early around the tools being used for the final project (and going even broader, maybe selecting tools together as a class early on - this way things like avoiding ArcGIS due to military contracts could be taken into account to ensure a wide range of tools are available so there’s options everyone feels safe and comfortable using) and *also* **building skills early on around engaging critically with the content that will be included - how to do historical research, how to center the voices of those who have been historically oppressed, etc.** I’d imagine that these two streams of learning would be pretty separate in the beginning, since it’s tricky enough just to learn the basics of research methodology or a new tool on their own. Maybe alternating weeks - one week focuses on historical research, one on learning the tools, repeat. But as the class goes on there could be more intersection - for example a practice project on the tool learning side could use the output of the previous week’s research activity and the assignment could be displaying some aspect of that with the tool. This way, the progression feels natural to students, and combining the skills from both “sides” of the class has become a habit, so by the time they get to the final project, it just feels like a culmination of all of that.
+
+How would you assess an assignment like [Queer Memories](https://storymaps.arcgis.com/stories/512dbf55af5647fba8ef7ea629d353cd)? (here I'm interested in what you would look for/what to evaluate rather than what letter grade you’d give this project) 
+ - Does it balance intimacy, privacy (if necessary), and world building? Does data, testimony, or ephemera come from the people involved in the community. Authenticity is important to depicting the fullness of a world or community.
+ - Does it present an alternate version of history, reclaim events or territory, counter a prevailing narrative, etc. Who are the subjects? 
+ - Can the choices made in design or in tools used advance the counter narrative or history being presented? In Queer Memories, different colored markers are used to present the different narratives.
+ - In a project like this, is the project’s goal to tread new ground in uncovering or documenting underrepresented narratives/lives, has it engaged with that topic in a more critically focused lens than previous attempts.
+ - Is the project asking new questions of the archive process if that was how they sourced their data and narratives
+ - What were the questions they asked when deciding on which technology to use to tell this particular story - what negotiations did they have to make to make their narrative fit within their technical (and time) limits. What was gained, what was lost? Were the end results worth it.
+ - If this is presented as a DH project, what steps were taken to document the process of this project for replication.
+ - How well did they document the labor and the breakdown of labor involved in this project. If the team changed over time, is that visible in the documentation?
+
  
  ### Pedagogical Best Practices
 
@@ -74,8 +71,24 @@ What are some concrete ways we can center affect and emotionality in learning en
 - Whose truth is being presented/defended in a given tool/project?
 
 Best practices, cont.: What does teaching/assignments/workshops that “challenge power” (D’Ignazio and Klein) look like?
-- Co-liberation kept coming up for D’Ignazio and Klien and this reminds me of our initial classes when we spoke about community engagement. It also makes me think of how to avoid the deficit narrative. Co-liberation in the classroom or workshop would look like the co-learning Frier and hooks teach us. Engaging in dialogue, carving spaces for contribution, scaffolding to empower a detachment from the banking system.
+- Co-liberation kept coming up for D’Ignazio and Klien and this reminds me of our initial classes when we spoke about community engagement. It also makes me think of how to avoid the deficit narrative. Co-liberation in the classroom or workshop would look like the co-learning
+- Frier and hooks teach us. Engaging in dialogue, carving spaces for contribution, scaffolding to empower a detachment from the banking system.
 - Some projects can be ephemeral, we should discuss with learners how long something should stay online and how people want to be credited
 - Documentation should be a best practice from the start -- thinking about documentation preservation, sunsetting, citation
+- TJ: projects as plays (LOVEEEE)
+  - Documentation as playbills
+
+### What's next?
+
+- **Cool project suggestion**: [Traffic Cam Photobooth](https://www.trafficcamphotobooth.com/#)
+- **Cool place hosting a cool event to learn about cool people doing cool work suggestion**: [WordHack at Wonderville in Bushwick!](https://www.wonderville.nyc/events/wordhack-feat-constant-dullaart-blake-andrews-and-leonardo-flores)
+- **Cool opportunity suggestion**[Open Knowledge Fellowship](https://gclibrary.commons.gc.cuny.edu/2025/02/10/apply-by-2-24-25-at-9am-open-knowledge-fellowship-summer-cohort/)
+- **Workshop suggestion**[Copyright and suthorship workshop from Mina Rees Library at the GC](https://commons.gc.cuny.edu/groups/gcdi/forum/topic/library-workshops-of-potential-interest-copyright-and-creative-commons-3/)
+- **GIS options as alternatives to ArcGIS suggestion**:
+  - [Scalar](https://guides.library.illinois.edu/scalar)
+  - [QGIS](https://qgis.org/)
+  - [StoryMap JS](https://storymap.knightlab.com/)
+  - [Wonderville](https://www.wonderville.nyc/)
+    
 
 
