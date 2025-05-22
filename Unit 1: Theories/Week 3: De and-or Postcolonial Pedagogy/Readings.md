@@ -1,7 +1,7 @@
 **Read**
 - Risam, “Introduction” and Chapter 4, “Post-Colonial Digital Pedagogy” in [*New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*](https://muse.jhu.edu/book/62714/)
     
-    - Editorial Note: This reading is under copyright. Students had access to this text through the Professor and through their instution's library. 
+    - Editorial Note: This reading is under copyright. Students had access to this text through the Professor and through their institution's library. 
 
 - Mahoney, Risam, and Nassereddine, [“Data Fail: Teaching Data Literacy with African Diaspora Digital Humanities”](https://cuny.manifoldapp.org/read/data-fail-teaching-data-literacy-with-african-diaspora-digital-humanities-e4d6d810-d576-4297-b72f-4890d43d911b/section/3a582887-7b75-42c1-8d37-eae77f5073c4)
 
