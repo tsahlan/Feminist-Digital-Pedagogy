@@ -5,21 +5,25 @@
 - Month in review: grounding theories, goals and guiding principles; beginning to build a best practices reference guide
 
 - Instructor contributions for the session on **mapping communities:** An [assignment](https://eng295.commons.gc.cuny.edu/project-3/) and example projects [Blast to The Past (Bronx Edition)](https://www.arcgis.com/apps/Cascade/index.html?appid=f8fd66bd0ce24601bfd43f90eada533e) and [Churches of East New York Brooklyn](https://www.youtube.com/watch?v=dJiTmA6NjAg); on **digital editing:** An [article that includes the assignment](https://academicworks.cuny.edu/yc_pubs/322/) and the [project](https://scalar.usc.edu/works/shakespeare-in-the-digital-age/index).
+- Question: What are some of the contexts/background knowledge students may need to be introduced to when they evaluate and build projects with a feminist and/or queer focus? In other words, what would be the necessary balance between **theory** and technical **skill** in a course that takes such topics into consideration? 
  
 # Session Notes
 
 ## Questions related to readings
 
-- Best practices, cont.: what does teaching/assignments/workshops that “challenge power” (D’Ignazio and Klein) look like?
-    - Co-liberation kept coming up for D’Ignazio and Klien and this reminds me of our initial classes when we spoke about community engagement. It also makes me think of how to avoid the deficit narrative. Co-liberation in the classroom or workshop would look like the co-learning Frier and hooks teach us. Engaging in dialogue, carving spaces for contribution, scaffolding to empower a detachment from the banking system. 
-    - Some projects can be ephemeral, we should discuss with learners how long something should stay online and how people want to be credited
-    - Documentation should be a best practice from the start -- thinking about documentation preservation, sunsetting, citation
-
-
+What does teaching/assignments/workshops that “challenge power” (D’Ignazio and Klein) look like?
+    
 ## Discussion
-- TJ: How much can individuals really be expected to take on the emotional labor of supporting their colleagues and students? Does this require a restructuring of schools and research institutions in general to provide an environment and a community that ensures students can be not just intellectually but also emotionally supported?
+- What does/can queering DH / DH pedagogy look like?
+  - What narratives does this tool best serve? What does it do that I don’t like and how could I use it against its promoted use?
+  - Engaging learners in building counter narratives, ask how they repurpose a tool for a new purpose
+    - Can lower barrier of entry for digital creation, digital literacy
+  - If a tool is unsuccessful finding ways to repurpose it
+  - **Counter-uses suggestion**: E.g. Using Excel for art, counter-uses
+    - [Excel esports](https://fmworldcup.com/microsoft-excel-world-championship/)
+    - [Wilderness.land](https://wilderness.land/)
 
--  MM: Let’s consider the idea that “DH pedagogy in postcolonial sites must focus on the development of digital intellect as opposed to digital intelligence.”
+ 
     - Measures of intelligence often based on someone else’s testing -- intellect can be built and made personal and individualized
     - Building intellect can be an invitation to reimagine the future
     - Creating new concepts means we don’t have to be concerned with fitting in or belonging but can be centered around community from the start
@@ -60,15 +64,19 @@ Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edi
  
   ## Pedagogical Best Practices
 
-- What would be a good checklist for selecting projects for inclusion in a DH or digital-infused syllabus?
-    - Make sure the links actually work!!!
-      - And check archive.org if they don’t
-    - Having choices between different resources to look at when some don’t work on your computer / are hard for you specifically to interact with / are accessible
-    - Is the project accessible?
-    - Is the page scalable/responsible to multiple devices? 
-- What would be a good checklist for selecting tools/resources?
-    - Having a set of related materials in different formats / media types for further research
-- Design a list questions for students to consider when taking on archiving projects
-    - Have I thought about my audience, UI/UX?
+What are some concrete ways we can center affect and emotionality in learning environments and projects?
+  - Respect. No emotion is wrong to have, but it’s important to explore where those emotions might stem from to push back against “gut instincts” that may get in the way of exploring something more critically. Basically - allowing students a space to be honest (if they feel comfortable doing so) about how a project is making them feel so they can examine those emotions further - either to try and get past some that may be blocking them, or to incorporate the ones that motivate them more into the project.
+- Curiosity
+  - ZM: Curiosity is modeled
+- Productive discomfort (with kindness)
+- TA: The banking system fights against this centering -- we need community-building
+- Co-creating assignments, rubrics, goals 
+- Sitting with and interrogating all emotions, even boredom and disinterest 
+- Whose truth is being presented/defended in a given tool/project?
+
+Best practices, cont.: What does teaching/assignments/workshops that “challenge power” (D’Ignazio and Klein) look like?
+- Co-liberation kept coming up for D’Ignazio and Klien and this reminds me of our initial classes when we spoke about community engagement. It also makes me think of how to avoid the deficit narrative. Co-liberation in the classroom or workshop would look like the co-learning Frier and hooks teach us. Engaging in dialogue, carving spaces for contribution, scaffolding to empower a detachment from the banking system.
+- Some projects can be ephemeral, we should discuss with learners how long something should stay online and how people want to be credited
+- Documentation should be a best practice from the start -- thinking about documentation preservation, sunsetting, citation
 
 
