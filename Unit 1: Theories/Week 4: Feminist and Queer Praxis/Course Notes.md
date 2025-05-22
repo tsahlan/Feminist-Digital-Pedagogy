@@ -23,8 +23,7 @@ What does teaching/assignments/workshops that “challenge power” (D’Ignazio
     - [Excel esports](https://fmworldcup.com/microsoft-excel-world-championship/)
     - [Wilderness.land](https://wilderness.land/)
 
- 
-    - Measures of intelligence often based on someone else’s testing -- intellect can be built and made personal and individualized
+  Measures of intelligence often based on someone else’s testing -- intellect can be built and made personal and individualized
     - Building intellect can be an invitation to reimagine the future
     - Creating new concepts means we don’t have to be concerned with fitting in or belonging but can be centered around community from the start
     - When we don’t have a term for something, sometimes it can facilitate conversation -- naming something shows what we’re centering in a conversation
@@ -43,7 +42,7 @@ What does teaching/assignments/workshops that “challenge power” (D’Ignazio
 
 - Instructor, riffing on MM's post:  Let’s make a case for working in failure in DH classes. What does that look like in practice? i.e. assignments, readings, grading.
 
-## What's next?
+### What's next?
 
 - Potentially filling one of our weeks on AI, ethics, push back, AI literacy?
 - **Suggested Resources** on invisible human labor in digitization
@@ -52,7 +51,7 @@ What does teaching/assignments/workshops that “challenge power” (D’Ignazio
 Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429244599-10/digitizing-labor-google-books-project-andrea-zeffiro)
     - **Project Suggestion:** [ScanOps](https://www.andrewnormanwilson.com/ScanOps.html)
 
- ## Project Discussion 
+### Project Discussion 
 
  - Which project did you explore? What did you like about it? 
     - Reconciliatio Project shares additional resources across multiple media
@@ -62,7 +61,7 @@ Gloved fingertips and severed hands"](https://www.taylorfrancis.com/chapters/edi
     - Accessibility, alt-text, summaries of artifacts 
     - Projects need appropriate and visible citation/credits
  
-  ## Pedagogical Best Practices
+ ### Pedagogical Best Practices
 
 What are some concrete ways we can center affect and emotionality in learning environments and projects?
   - Respect. No emotion is wrong to have, but it’s important to explore where those emotions might stem from to push back against “gut instincts” that may get in the way of exploring something more critically. Basically - allowing students a space to be honest (if they feel comfortable doing so) about how a project is making them feel so they can examine those emotions further - either to try and get past some that may be blocking them, or to incorporate the ones that motivate them more into the project.
