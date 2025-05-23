@@ -65,7 +65,7 @@ Let's explore these projects and assigenments together
     - Labor is a serious consideration: people juggling multiple courses can find it overwhelming 
 - Library article brought up questions of collaboration and what it means to work across hierarchies: e.g. working with undergraduate students as a graduate student: are you treating the student as a worker, or as a collaborator?
     - Important to collaborate on setting boundaries
-- **Suggested Resource** Refer to The Student Collaborators Bill of Rights
+- **Suggested Resource** Refer to [The Student Collaborators Bill of Rights](https://humtech.ucla.edu/news/a-student-collaborators-bill-of-rights/)
 - When bringing a guest into a classroom or learning space, prepare learners for receiving and engaging the guest with patience, care, respect
 
 ### What's next?
