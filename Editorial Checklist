@@ -1,0 +1,40 @@
+The checklist aims to address three concerns: formatting style to ensure consistency and feminist citation, data management for access and accessibility, and writing for a public audience that is grounded in “care for” the class community in a public setting and “care about” the public users. The checklist also works to reduce cognitive labor and time on task, where repetitive tasks are demarcated and can be easily duplicated. Below each checklist item, I add the rationale, decision and, if necessary, an example.
+
+Formatting Style: 
+
+Decide on a citation style for readings and resources. 
+You may choose an academic citation style such as APA, MLA, Chicago, etc or adapt a casual attribution style. As a class we were encouraged to use whatever citation style we preferred, but to remain consistent in using our preferred style. The course reading list used a casual citation style with author name, title of work, and an embedded hyperlink to the text. I chose to keep the casual attribution style found on the course site when listing the required course readings or any recommended readings that were documented in the course notes.
+
+Decide on a formatting style for the course notes.
+You may choose the same academic citation and formatting style or you can create your own formatting style. Our course notes read like a conversation among friends discussing their thoughts and ideas on teaching and technology. For example, there were several ways a speaker was indicated; sometimes their name was in italics, other times their name was written before the statement, still other times their name was in parentheses. The freeform notes displayed the ethos of the course, but replicating the notes as they were would be inconsistent for a public audience. I experimented with two formats for indicating a speaker: 1) write the speaker’s initials and a colon before the statement, 2) write the statement then a hyphen then the speaker’s initials. I preferred the former for clarity.
+
+Data Management: 
+
+Determine the most efficient file path for your archive. 
+Github afforded a directory system that helped me manage the file paths. The main folders were labeled by unit number and unit name to represent the overall structure of the course. Next, each unit folder included week number and week theme to represent the course schedule. Later, I wondered: how do I structure the files in each subfolder? I went to the community with this question and the consensus was to duplicate some of the course site headers like Course Notes, Readings, and Digital Projects. Later, I added Suggested Sources to highlight our “world-making” lists. It was important that the structure of the repository was easy to access and accessible. I did my best to follow the main guidelines for web accessibility: perceivable, operable, understandable, and robust (POUR).
+
+Determine the headings for your notes: avoid the miscellaneous list of notes.
+The editorial decisions for headings and course note organization proved to be the most laborious and required much rearranging. Although the original course notes had headers such as keywords, discussion, tutorial, and questions; as the weeks went by and our conversations grew, so did the variety of discussions and recommendations from the class community. We added calls for participation, reading recommendations, subversive technology, fun digital projects, cool cafes, and much more.
+
+For example, in Week 1, the Course Notes file only had two headers: Session Plan and Session Notes. In Week 3, however, the Course Notes file required additional headers such as Project Discussions, Pedagogical Best Practices, and What Next? Thus, it is important to create a headings template that is flexible to accommodate the unpredictability of learning and creating. During the course, I suggest creating an outline of the headers as they emerge. We used Google Docs for our course, so selecting and styling headers will automatically generate an outline of the  document. This will be an added step that might be forgotten during an engaging discussion, but having a checklist for a public archive and designating a notetaker for each course session can be helpful in documenting the headers as they emerge.
+
+Public Audience:
+
+Caring for the Class Community
+
+Decide how to refer to the class community.
+ In our case, we decided to use student initials to indicate student contribution and refer to Andie as “instructor.”
+Decide what to include from student recommendations. 
+Some recommendations might be flagged by institutions, so seek the class community’s consensus before including them in a public archive.
+Decide on the structure of student-led discussions. 
+I decided to only include discussion questions and examples of assignments. I excluded any personal experiences or anecdotes.
+
+Caring about Archive Users
+
+Expand any shorthand instructions for clarity. 
+For example, we participated in writing activities on the shared course notes. The instruction language was “write below,” but I revised it to “freewriting activity” in the archive. Also, consider removing any notes on deadlines or date specific calls for participation.
+
+Make editorial notes for further clarity. 
+I considered accessibility, access, and experience with Github, and or preparedness for replicating our course. For example, the future instructor might be a precarious part-time adjunct with limited time to curate course material, or they might be an instructor who chooses to have a zero-cost textbook course so I added a note on how users may locate sources. Below the title of each source that is not open-access a user sees, “Editorial Note: This reading is under copyright. Students had access to this text through the Professor and through their institution's library.” I also added one-line descriptors of projects or indicated genre of a text. These decisions were both to reduce labor and avoid gate keeping.
+
+Along with the checklist, there are two activities I highly suggest if you plan to archive your course. One, ask students to review a digital archival project using a questionnaire that asks them to investigate the how and why of the project while thinking  through a feminist care lens: Is the project explicit and intentional? Does it provide peer-to-peer support? How does it address and challenge power dynamics? Two, use the myshadow.org project to elicit ideas on how the students may want to maintain their privacy in a public archive.
